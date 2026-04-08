@@ -6,7 +6,7 @@ export const data = {
   contato: {
     whatsapp: "556194219217",
     telefone: "(61) 9421-9217",
-    instagram: "@academiaatlethica"
+    instagram: "@academiatlethica"
   },
 
   localizacao: {

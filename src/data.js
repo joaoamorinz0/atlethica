@@ -16,9 +16,9 @@ export const data = {
   },
 
   horario: {
-    semana: "06h às 22h",
-    sabado: "08h às 12h",
-    domingo: "Fechado"
+    semana: "05h às 22h",
+    sabado: "07h às 16h",
+    domingo: "07h às 12h"
   },
 
   planos: [

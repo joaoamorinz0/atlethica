@@ -18,12 +18,16 @@ const Sobre = ({ data }) => {
             
             <div className="grid grid-cols-2 gap-8">
               <div>
-                <div className="text-4xl font-bold text-primary-500 mb-2">06h-22h</div>
+                <div className="text-4xl font-bold text-primary-500 mb-2">05h-22h</div>
                 <p className="text-primary-400">Seg-Sex</p>
               </div>
               <div>
-                <div className="text-4xl font-bold text-primary-500 mb-2">08h-12h</div>
+                <div className="text-4xl font-bold text-primary-500 mb-2">07h-16h</div>
                 <p className="text-primary-400">Sábado</p>
+              </div>
+              <div>
+                <div className="text-4xl font-bold text-primary-500 mb-2">07h-12h</div>
+                <p className="text-primary-400">Domingo</p>
               </div>
             </div>
           </div>
